@@ -1,5 +1,8 @@
 # pass pclip
 
+https://gitlab.com/lbischof/pass-extension-pclip
+![Moved to GitLab](https://i.imgur.com/wGgvnPq.png)
+
 An extension for [password store](https://www.passwordstore.org/) that copies meta data into the primary clipboard (middle mouse button).
 
 [password store](https://www.passwordstore.org/) proposes a format to store meta data in the password file. The password is stored in the first line followed by  data like the URL, username and other meta data in the following lines. A common password file would like this:
